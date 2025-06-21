@@ -46,7 +46,7 @@ sherlock user123
 To search for more than one user:
 ```bash
 sherlock user1 user2 user3
-```
+@jendizz
 
 Accounts found will be stored in an individual text file with the corresponding username (e.g ```user123.txt```).
 
