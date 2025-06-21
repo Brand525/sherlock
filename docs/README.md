@@ -111,7 +111,7 @@ Thank you to everyone who has contributed to Sherlock! ❤️
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
+  <source media@jendizz="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
   <img alt="Sherlock Project Star History Chart" src="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
 </picture>
 
@@ -122,5 +122,5 @@ Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
 
 <!-- Reference Links -->
 
-[ext_pypi]: https://pypi.org/project/sherlock-project/
-[ext_brew]: https://formulae.brew.sh/formula/sherlock
+sherlock
+[ext_brew]: sherlock
